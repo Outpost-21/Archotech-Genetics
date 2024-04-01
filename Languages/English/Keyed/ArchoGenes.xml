@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ArchoGenes.UsedBioUnit>{USER_labelShort} used an archotech bio-unit, their genes were modified and they are now a powerful Archinite!</ArchoGenes.UsedBioUnit>
+	<ArchoGenes.LetterLabelCargoPodCrash>glowing cargo pod</ArchoGenes.LetterLabelCargoPodCrash>
+	<ArchoGenes.CargoPodCrash>You have detected a lone cargo pod crashing nearby.\n\nThere's something giving off a strange green glow from the pod...</ArchoGenes.CargoPodCrash>
+	<ArchoGenes.AlreadyArchinite>Pawn already Archinite</ArchoGenes.AlreadyArchinite>
+	<ArchoGenes.NonHumanIncompatible>Non-Human, Incompatible</ArchoGenes.NonHumanIncompatible>
+
+</LanguageData>

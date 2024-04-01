@@ -1,0 +1,4 @@
+F:\RWModCategories\Neronix17\ArchotechGenetics\1.4\Assemblies\ArchoGenes.dll
+F:\RWModCategories\Neronix17\ArchotechGenetics\1.4\Source\ArchoGenes\obj\Debug\ArchoGenes.csproj.AssemblyReference.cache
+F:\RWModCategories\Neronix17\ArchotechGenetics\1.4\Source\ArchoGenes\obj\Debug\ArchoGenes.csproj.CoreCompileInputs.cache
+F:\RWModCategories\Neronix17\ArchotechGenetics\1.4\Source\ArchoGenes\obj\Debug\ArchoGenes.dll

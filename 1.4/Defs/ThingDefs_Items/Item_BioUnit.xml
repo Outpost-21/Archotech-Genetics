@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<ThingDef ParentName="ArtifactBase">
+		<defName>ArchoGenes_BioUnit</defName>
+		<label>archotech bio-unit</label>
+		<description>A strangely organic looking Archotech device, one of the sides opens when a hand is put near it, suggesting someone needs to directly interface with it physically for it to function. A DNA symbol on the glass sphere on the top of the device suggests it may have some genetic component to it, but what will happen when it's used is unclear.</description>
+		<graphicData>
+			<texPath>ArchoGenetics/Items/BioUnit</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<stackLimit>1</stackLimit>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<MarketValue>15000</MarketValue>
+			<DeteriorationRate>0</DeteriorationRate>
+		</statBases>
+		<tradeability>Sellable</tradeability>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+			<li Class="ArchoGenes.CompProperties_UseEffectApplyXenotype" />
+			<li Class="CompProperties_UseEffectPlaySound">
+				<soundOnUsed>PsychicSoothePulserCast</soundOnUsed>
+			</li>
+		</comps>
+		<thingSetMakerTags Inherit="False" />
+	</ThingDef>
+
+</Defs>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<XenotypeDef>
+		<defName>ArchoGenes_Archinite</defName>
+		<label>Archinite</label>
+		<description>As close as a mortal can get to becoming a living god, this archotech xenotype gifted to humanity from an unknown entity allows one to become immortal, undying and unafflicted by mortal matters such as illness or age, healing from any wound and almost untouchable by normal weapons. Archinites can reproduce but will not pass along any of their god-like gifts to their young, requiring anyone who wishes to become one to be lucky enough to stumble across a rare Archotech Biounit.</description>
+		<descriptionShort>As close as a mortal can get to becoming a living god, this archotech xenotype gifted to humanity from an unknown entity allows one to become immortal, undying and unafflicted by mortal matters such as illness or age, healing from any wound and almost untouchable by normal weapons.</descriptionShort>
+		<iconPath>ArchoGenetics/XenotypeIcons/Xenotype_Archinite</iconPath>
+		<combatPowerFactor>10.0</combatPowerFactor>
+		<inheritable>false</inheritable>
+		<factionlessGenerationWeight>0</factionlessGenerationWeight>
+		<genes>
+			<li>PerfectImmunity</li>
+			<li>DiseaseFree</li>
+			<li>TotalHealing</li>
+			<li>Ageless</li>
+			<li>Deathless</li>
+			<li>ArchiteMetabolism</li>
+			<li>ArchoGenes_ArchotechSkin</li>
+			<li>ArchoGenes_ArchotechSight</li>
+			<li>ArchoGenes_ArchotechPain</li>
+			<li>ArchoGenes_ArchotechPsycaster</li>
+			<li>ArchoGenes_ArchotechTemperature</li>
+			<li>ArchoGenes_ArchotechToxImmunity</li>
+			<li>ArchoGenes_ArchotechLegs</li>
+			<li>ArchoGenes_ArchotechPresence</li>
+			<li>ArchoGenes_ArchoRegeneration</li>
+			<li>ArchoGenes_ArchotechMemory</li>
+			<li>ArchoGenes_ArchotechMuscles</li>
+			<li>ArchoGenes_Skin_Archotech</li>
+			<li>ArchoGenes_Hair_Archotech</li>
+			<li>ArchoGenes_Eyes_Archotech</li>
+			<li>ArchoGenes_Blood_Archotech</li>
+		</genes>
+	</XenotypeDef>
+
+</Defs>

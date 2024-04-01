@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<GeneDef>
+		<defName>ArchoGenes_ArchotechSkin</defName>
+		<label>archoskin</label>
+		<labelShortAdj>archo-skinned</labelShortAdj>
+		<description>Carriers of this gene have a rigid but smooth skin, with strange lightly glowing lines along seemingly random sections of their bodies, even their hair has a vibrant slight glow to it.</description>
+		<biostatCpx>1</biostatCpx>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+		<displayOrderInCategory>6900</displayOrderInCategory>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_ArchoSkin</iconPath>
+		<forcedHeadTypes>
+			<li>Male_AverageNormal</li>
+			<li>Male_AveragePointy</li>
+			<li>Male_AverageWide</li>
+			<li>Female_AverageNormal</li>
+			<li>Female_AveragePointy</li>
+			<li>Female_AverageWide</li>
+		</forcedHeadTypes>
+		<exclusionTags>
+			<li>Fur</li>
+		</exclusionTags>
+		<selectionWeight>0</selectionWeight>
+		<statOffsets>
+			<ArmorRating_Blunt>1.5</ArmorRating_Blunt>
+			<ArmorRating_Sharp>1.5</ArmorRating_Sharp>
+			<ArmorRating_Heat>1.5</ArmorRating_Heat>
+		</statOffsets>
+		<graphicData>
+			<graphicPaths>
+				<li>Things/Pawn/Humanlike/Heads/ArchotechOverlay/Inlay1</li>
+				<li>Things/Pawn/Humanlike/Heads/ArchotechOverlay/Inlay2</li>
+				<li>Things/Pawn/Humanlike/Heads/ArchotechOverlay/Inlay3</li>
+			</graphicPaths>
+			<layer>PostSkin</layer>
+			<fur>ArchoGenes_ArchotechSkin</fur>
+			<skinIsHairColor>false</skinIsHairColor>
+			<colorType>Custom</colorType>
+			<tattoosVisible>true</tattoosVisible>
+			<color>(255, 255, 255)</color>
+		</graphicData>
+		<modExtensions>
+			<li Class="VanillaGenesExpanded.GeneExtension">
+				<dontColourFur>true</dontColourFur>
+			</li>
+		</modExtensions>
+	</GeneDef>
+
+	<!-- <GeneDef>
+		<defName>ArchoGenes_ArchotechProgenitor</defName>
+		<label>archotech progenitor</label>
+		<labelShortAdj>archo-progenitor</labelShortAdj>
+		<description>Carriers of this gene are capable of passing on archite and xenogenes to their children, as if they were normal endogenes.</description>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_ArchotechProgenitor</iconPath>
+		<biostatCpx>2</biostatCpx>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+		<displayOrderInCategory>6901</displayOrderInCategory>
+	</GeneDef> -->
+
+	<GeneDef>
+		<defName>ArchoGenes_ArchotechMuscles</defName>
+		<label>archomuscles</label>
+		<labelShortAdj>archo-muscled</labelShortAdj>
+		<description>Carriers of this gene have extremely reactive muscle fibers, giving them a much higher than normal control over their motor functions and resulting in being able to work faster at most jobs.</description>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_ArchotechMuscles</iconPath>
+		<biostatCpx>2</biostatCpx>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+		<statFactors>
+			<WorkSpeedGlobal>3</WorkSpeedGlobal>
+		</statFactors>
+		<displayOrderInCategory>6902</displayOrderInCategory>
+	</GeneDef>
+
+	<GeneDef>
+		<defName>ArchoGenes_ArchotechMemory</defName>
+		<label>archomemory</label>
+		<labelShortAdj>archo-minded</labelShortAdj>
+		<description>Carriers of this gene can absorb information much faster and more easily than a baseline human, learning any skill takes them a small portion of the time it would usually take.</description>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_ArchotechMemory</iconPath>
+		<biostatCpx>2</biostatCpx>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+		<statFactors>
+			<GlobalLearningFactor>3</GlobalLearningFactor>
+		</statFactors>
+		<displayOrderInCategory>6903</displayOrderInCategory>
+	</GeneDef>
+
+	<GeneDef>
+		<defName>ArchoGenes_ArchotechPresence</defName>
+		<label>intimidating presence</label>
+		<labelShortAdj>intimidating</labelShortAdj>
+		<description>Carriers of this gene have a naturally intimidating presence, causing their social interactions to carry twice as much weight compared to a baseliner.</description>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_IntimidatingPresence</iconPath>
+		<biostatCpx>1</biostatCpx>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+		<statFactors>
+			<SocialImpact>2</SocialImpact>
+		</statFactors>
+		<displayOrderInCategory>6904</displayOrderInCategory>
+	</GeneDef>
+
+	<GeneDef ParentName="GeneMoveSpeedBase">
+		<defName>ArchoGenes_ArchotechLegs</defName>
+		<label>archolegs</label>
+		<labelShortAdj>fast</labelShortAdj>
+		<description>Carriers of this gene move at speeds baseliners can only dream of.</description>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_ArchoLegs</iconPath>
+		<displayOrderInCategory>6905</displayOrderInCategory>
+		<statOffsets>
+			<MoveSpeed>2</MoveSpeed>
+		</statOffsets>
+		<biostatCpx>2</biostatCpx>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+	</GeneDef>
+
+	<GeneDef>
+		<defName>ArchoGenes_ArchotechToxImmunity</defName>
+		<label>non-toxic</label>
+		<labelShortAdj>non-toxic</labelShortAdj>
+		<description>Carriers of this gene are immune to direct tox exposure as well as toxic environments.</description>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_ArchoImmunity</iconPath>
+		<displayOrderInCategory>6906</displayOrderInCategory>
+		<marketValueFactor>1.5</marketValueFactor>
+		<immuneToToxGasExposure>true</immuneToToxGasExposure>
+		<statOffsets>
+			<ToxicEnvironmentResistance>1</ToxicEnvironmentResistance>
+			<ToxicResistance>1</ToxicResistance>
+		</statOffsets>
+		<biostatCpx>2</biostatCpx>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+		<exclusionTags>
+			<li>ToxicEnvironmentResistance</li>
+			<li>ToxResistance</li>
+		</exclusionTags>
+	</GeneDef>
+
+	<GeneDef ParentName="GenePainBase">
+		<defName>ArchoGenes_ArchotechPain</defName>
+		<label>painless</label>
+		<labelShortAdj>pain-free</labelShortAdj>
+		<description>Carriers of this gene are incapable of feeling any pain at all.</description>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_Painless</iconPath>
+		<displayOrderInCategory>6907</displayOrderInCategory>
+		<painFactor>0</painFactor>
+		<biostatCpx>2</biostatCpx>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+	</GeneDef>
+
+	<GeneDef>
+		<defName>ArchoGenes_ArchotechTemperature</defName>
+		<label>perfect temperature</label>
+		<labelShortAdj>climate-controlled</labelShortAdj>
+		<description>Carriers of this gene are always perfectly comfortable in any temperature, they can't even catch fire.</description>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_PerfectTemperature</iconPath>
+		<biostatCpx>2</biostatCpx>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+		<exclusionTags>
+			<li>MinTemperature</li>
+			<li>MaxTemperature</li>
+		</exclusionTags>
+		<selectionWeight>0</selectionWeight>
+		<statOffsets>
+			<ComfyTemperatureMax>999</ComfyTemperatureMax>
+			<ComfyTemperatureMin>-999</ComfyTemperatureMin>
+		</statOffsets>
+		<statFactors>
+			<Flammability>0</Flammability>
+		</statFactors>
+		<displayOrderInCategory>6908</displayOrderInCategory>
+	</GeneDef>
+
+	<GeneDef>
+		<defName>ArchoGenes_ArchotechPsycaster</defName>
+		<label>innate psycaster</label>
+		<labelShortAdj>innate-casting</labelShortAdj>
+		<description>Carriers of this gene have a natural affinity for psycasting to a degree that makes most masters look like they're just getting started.\n\nNote: This does not make them a psycaster, it just makes them particularly good at it when they are one.</description>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_InnatePsycaster</iconPath>
+		<biostatCpx>2</biostatCpx>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+		<exclusionTags>
+			<li>PsychicAbility</li>
+		</exclusionTags>
+		<selectionWeight>0</selectionWeight>
+		<statOffsets>
+			<PsychicSensitivity>1</PsychicSensitivity>
+			<MeditationFocusGain MayRequire="Ludeon.RimWorld.Royalty">0.7</MeditationFocusGain>
+			<PsychicEntropyRecoveryRate MayRequire="Ludeon.RimWorld.Royalty">0.7</PsychicEntropyRecoveryRate>
+		</statOffsets>
+		<displayOrderInCategory>6909</displayOrderInCategory>
+	</GeneDef>
+
+	<GeneDef>
+		<defName>ArchoGenes_ArchotechSight</defName>
+		<label>archosight</label>
+		<labelShortAdj>archo-sighted</labelShortAdj>
+		<description>Carriers of this gene have faultless sight, incapable of functioning at less than 200%, even when their physical eyes are destroyed.</description>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_Eyes</iconPath>
+		<iconColor>(168, 162, 102)</iconColor>
+		<biostatCpx>2</biostatCpx>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+		<exclusionTags>
+			<li>EnhancedSight</li>
+		</exclusionTags>
+		<selectionWeight>0</selectionWeight>
+		<customEffectDescriptions>
+			<li>Sight capacity has a minimum value of 200%.</li>
+		</customEffectDescriptions>
+		<displayOrderInCategory>6910</displayOrderInCategory>
+	</GeneDef>
+
+	<GeneDef>
+		<defName>ArchoGenes_Eyes_Archotech</defName>
+		<label>archotech eyes</label>
+		<labelShortAdj>archo-sighted</labelShortAdj>
+		<description>Carriers of this gene have slightly glowing green eyes.</description>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_Eyes</iconPath>
+		<iconColor>(211, 216, 65)</iconColor>
+		<biostatCpx>2</biostatCpx>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+		<exclusionTags>
+			<li>EyeColor</li>
+		</exclusionTags>
+		<selectionWeight>0</selectionWeight>
+		<graphicData>
+			<color>(211, 216, 65)</color>
+			<visibleNorth>false</visibleNorth>
+			<layer>PostTattoo</layer>
+			<graphicPath>ArchoGenetics/Genes/Eyes/Eyes_Male</graphicPath>
+			<graphicPathFemale>ArchoGenetics/Genes/Eyes/Eyes_Female</graphicPathFemale>
+		</graphicData>
+		<displayOrderInCategory>6911</displayOrderInCategory>
+	</GeneDef>
+
+	<GeneDef ParentName="GeneSkinColorOverride">
+		<defName>ArchoGenes_Skin_Archotech</defName>
+		<label>archotech skin</label>
+		<labelShortAdj>archotech</labelShortAdj>
+		<description>Carriers of this produce a unnatural green pigment in their skin.</description>
+		<skinColorOverride>(168, 162, 102)</skinColorOverride>
+		<displayOrderInCategory>6912</displayOrderInCategory>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+	</GeneDef>
+
+	<GeneDef ParentName="GeneHairColorBase">
+		<defName>ArchoGenes_Hair_Archotech</defName>
+		<label>archotech hair</label>
+		<hairColorOverride>(211, 216, 65)</hairColorOverride>
+		<selectionWeight>0</selectionWeight>
+		<displayOrderInCategory>6913</displayOrderInCategory>
+		<randomBrightnessFactor>0</randomBrightnessFactor>
+		<biostatArc>1</biostatArc>
+		<displayCategory>Archite</displayCategory>
+	</GeneDef>
+
+	<GeneDef ParentName="GeneHealingRateBase">
+		<defName>ArchoGenes_ArchoRegeneration</defName>
+		<label>archoregeneration</label>
+		<description>Carriers of this gene heal from wounds significantly faster than normal and even regenerate limbs within mere days.</description>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_Regeneration</iconPath>
+		<displayOrderInCategory>6914</displayOrderInCategory>
+		<geneClass>TabulaRasa.Gene_Regeneration</geneClass>
+		<biostatCpx>2</biostatCpx>
+		<biostatArc>1</biostatArc>
+		<customEffectDescriptions>
+			<li>Rapidly heals all wounds.</li>
+			<li>Regenerates any missing body parts.</li>
+			<li>Prevents illness/infection.</li>
+		</customEffectDescriptions>
+		<modExtensions>
+			<li Class="TabulaRasa.DefModExt_GeneRegeneration">
+				<healTicks>600</healTicks>
+				<regrowParts>true</regrowParts>
+                <cureTicks>600</cureTicks>
+                <removeInfections>true</removeInfections>
+                <infectionsAllowed />
+                <explicitRemovals>
+                    <li>FibrousMechanites</li>
+                    <li>SensoryMechanites</li>
+                    <li>Dementia</li>
+                    <li>Alzheimers</li>
+                    <li>Asthma</li>
+                    <li>HeartArteryBlockage</li>
+                    <li>Carcinoma</li>
+                    <li>HearingLoss</li>
+                    <li>Cataract</li>
+                    <li>BadBack</li>
+                    <li>Frail</li>
+                    <li>ResurrectionPsychosis</li>
+                </explicitRemovals>
+                <growthTicks>600</growthTicks>
+				<growthText>Growth: </growthText>
+				<protoBodyPart>ArchoGenes_ProtoBodypart</protoBodyPart>
+			</li>
+		</modExtensions>
+	</GeneDef>
+
+	<!-- ========== Blood: Archotech ========= -->
+
+	<GeneDef>
+		<defName>ArchoGenes_Blood_Archotech</defName>
+		<label>archoblood</label>
+		<labelShortAdj>archo-blooded</labelShortAdj>
+		<description>Carriers of this gene have archotech enhanced blood. This severely reduces bleed rate, and increases natural healing.</description>
+		<iconPath>ArchoGenetics/GeneIcons/Gene_Blood</iconPath>
+		<iconColor>(211, 216, 65)</iconColor>
+		<displayOrderInCategory>6915</displayOrderInCategory>
+		<displayCategory>Archite</displayCategory>
+		<exclusionTags>
+			<li>AG_BloodType</li>
+			<li>BloodType</li>
+			<li>Blood</li>
+			<li>AG_Bleeding</li>		
+			<li>Bleeding</li>
+		</exclusionTags>
+		<biostatCpx>2</biostatCpx>
+		<biostatArc>2</biostatArc>
+		<statFactors>
+			<InjuryHealingFactor>4</InjuryHealingFactor>
+		</statFactors>
+		<customEffectDescriptions>
+			<li>Slows bleeding to 10% of normal.</li>
+		</customEffectDescriptions>
+		<modExtensions>
+			<li Class="VanillaGenesExpanded.GeneExtension">
+				<customBloodThingDef>ArchoGenes_Filth_BloodArchotech</customBloodThingDef>
+				<customBloodIcon>ArchoGenetics/Medical/BleedingArchotech</customBloodIcon>
+				<customBloodEffect>ArchoGenes_Damage_BloodArchotech</customBloodEffect>
+				<customWoundsFromFleshtype>ArchoGenes_Flesh_BloodArchotech</customWoundsFromFleshtype>
+				<hediffToWholeBody>ArchoGenes_ArchoBlood</hediffToWholeBody>
+			</li>
+		</modExtensions>
+	</GeneDef>
+
+	<ThingDef ParentName="BaseFilth">
+		<defName>ArchoGenes_Filth_BloodArchotech</defName>
+		<label>archoblood</label>
+		<statBases>
+			<Beauty>2</Beauty>
+			<Cleanliness>-2</Cleanliness>
+		</statBases>
+		<graphicData>
+			<texPath>Things/Filth/Spatter</texPath>
+			<color>(211, 216, 65, 180)</color>
+		</graphicData>
+		<filth>
+			<ignoreFilthMultiplierStat>true</ignoreFilthMultiplierStat>
+			<disappearsInDays>35~40</disappearsInDays>
+			<rainWashes>true</rainWashes>
+			<cleaningWorkToReduceThickness>70</cleaningWorkToReduceThickness>
+			<canFilthAttach>true</canFilthAttach>
+			<cleaningSound>Interact_CleanFilth_Fluid</cleaningSound>
+		</filth>
+	</ThingDef>
+
+	<EffecterDef>
+		<defName>ArchoGenes_Damage_BloodArchotech</defName>
+		<children>
+			<li>
+				<subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+				<positionRadius>0.4</positionRadius>
+				<fleckDef>AirPuff</fleckDef>
+				<burstCount>4~5</burstCount>
+				<speed>0.4~0.8</speed>
+				<scale>1.0~1.1</scale>
+				<color>(120, 18, 0)</color>
+				<spawnLocType>OnSource</spawnLocType>
+			</li>
+			<li>
+				<subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+				<positionRadius>0.0</positionRadius>
+				<fleckDef>BodyImpact</fleckDef>
+				<burstCount>1</burstCount>
+				<scale>0.4</scale>
+				<color>(255, 120, 30, 60)</color>
+				<spawnLocType>OnSource</spawnLocType>
+			</li>
+			<li>
+				<subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+				<positionRadius>0.1</positionRadius>
+				<fleckDef>BloodSplash</fleckDef>
+				<burstCount>2~3</burstCount>
+				<scale>1.1~1.4</scale>
+				<color>(211, 216, 65)</color>
+				<spawnLocType>OnSource</spawnLocType>
+			</li>
+		</children>
+		<offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+		<positionRadius>0.1</positionRadius>
+	</EffecterDef>
+
+	<FleshTypeDef>
+		<defName>ArchoGenes_Flesh_BloodArchotech</defName>
+		<corpseCategory>CorpsesAnimal</corpseCategory>
+		<damageEffecter>ArchoGenes_Damage_BloodArchotech</damageEffecter>
+		<genericWounds>
+			<li>
+				<texture>ArchoGenetics/Medical/WoundFleshA</texture>
+				<color>(211, 216, 65)</color>
+			</li>
+			<li>
+				<texture>ArchoGenetics/Medical/WoundFleshB</texture>
+				<color>(211, 216, 65)</color>
+			</li>
+			<li>
+				<texture>ArchoGenetics/Medical/WoundFleshC</texture>
+				<color>(211, 216, 65)</color>
+			</li>
+		</genericWounds>
+	</FleshTypeDef>
+
+</Defs>
