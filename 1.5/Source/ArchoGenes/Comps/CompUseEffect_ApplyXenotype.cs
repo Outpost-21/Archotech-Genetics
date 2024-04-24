@@ -28,25 +28,21 @@ namespace ArchoGenes
                 pawn.genes.SetXenotype(ArchoGenesDefOf.ArchoGenes_Archinite);
             }
         }
-
-        public override bool CanBeUsedBy(Pawn p, out string failReason)
+        public override AcceptanceReport CanBeUsedBy(Pawn p)
         {
             if (p.genes == null)
             {
-                failReason = null;
-                return false;
+                return null;
             }
             if(p.genes.Xenotype == ArchoGenesDefOf.ArchoGenes_Archinite)
             {
-                failReason = "ArchoGenes.AlreadyArchinite".Translate();
-                return false;
+                return "ArchoGenes.AlreadyArchinite".Translate();
             }
             if(p.def != ThingDefOf.Human)
             {
-                failReason = "ArchoGenes.NonHumanIncompatible".Translate();
-                return false;
+                return "ArchoGenes.NonHumanIncompatible".Translate();
             }
-            return base.CanBeUsedBy(p, out failReason);
+            return base.CanBeUsedBy(p);
         }
     }
 }
