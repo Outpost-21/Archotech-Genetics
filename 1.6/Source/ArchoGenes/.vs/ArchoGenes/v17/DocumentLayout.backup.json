@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\archogenesmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|solutionrelative:archogenesmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\harmonypatches\\patch_pawncapacityworker_sight_calculatecapacitylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|solutionrelative:harmonypatches\\patch_pawncapacityworker_sight_calculatecapacitylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|f:\\rwmodcategories\\neronix17\\archotechgenetics\\1.6\\source\\archogenes\\utilities\\logutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|solutionrelative:utilities\\logutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ArchoGenes||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\comps\\compuseeffect_applyxenotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|solutionrelative:comps\\compuseeffect_applyxenotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\archogenesdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|solutionrelative:archogenesdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\archogenessettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|solutionrelative:archogenessettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\comps\\compproperties_useeffectapplyxenotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|solutionrelative:comps\\compproperties_useeffectapplyxenotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\incidentworkers\\incidentworker_biounitpodcrash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|solutionrelative:incidentworkers\\incidentworker_biounitpodcrash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\patchoperations\\patchoperation_settingactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|solutionrelative:patchoperations\\patchoperation_settingactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03A89E-AF7A-4C9C-837B-3D00760E597F}|ArchoGenes.csproj|f:\\rwmodcategories\\neronix17\\archotechgenetics\\1.6\\source\\archogenes\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogUtil.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\Utilities\\LogUtil.cs",
+              "RelativeDocumentMoniker": "Utilities\\LogUtil.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\Utilities\\LogUtil.cs",
+              "RelativeToolTip": "Utilities\\LogUtil.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:59:06.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:49:10.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArchoGenes",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\ArchoGenes.csproj",
+              "RelativeDocumentMoniker": "ArchoGenes.csproj",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\ArchoGenes.csproj",
+              "RelativeToolTip": "ArchoGenes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-17T11:49:08.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatchOperation_SettingActive.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\PatchOperations\\PatchOperation_SettingActive.cs",
+              "RelativeDocumentMoniker": "PatchOperations\\PatchOperation_SettingActive.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\PatchOperations\\PatchOperation_SettingActive.cs",
+              "RelativeToolTip": "PatchOperations\\PatchOperation_SettingActive.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:49:00.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArchoGenesSettings.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\ArchoGenesSettings.cs",
+              "RelativeDocumentMoniker": "ArchoGenesSettings.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\ArchoGenesSettings.cs",
+              "RelativeToolTip": "ArchoGenesSettings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:49:00.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patch_PawnCapacityWorker_Sight_CalculateCapacityLevel.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\HarmonyPatches\\Patch_PawnCapacityWorker_Sight_CalculateCapacityLevel.cs",
+              "RelativeDocumentMoniker": "HarmonyPatches\\Patch_PawnCapacityWorker_Sight_CalculateCapacityLevel.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\HarmonyPatches\\Patch_PawnCapacityWorker_Sight_CalculateCapacityLevel.cs",
+              "RelativeToolTip": "HarmonyPatches\\Patch_PawnCapacityWorker_Sight_CalculateCapacityLevel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:49:00.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArchoGenesMod.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\ArchoGenesMod.cs",
+              "RelativeDocumentMoniker": "ArchoGenesMod.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\ArchoGenesMod.cs",
+              "RelativeToolTip": "ArchoGenesMod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:49:00.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IncidentWorker_BioUnitPodCrash.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\IncidentWorkers\\IncidentWorker_BioUnitPodCrash.cs",
+              "RelativeDocumentMoniker": "IncidentWorkers\\IncidentWorker_BioUnitPodCrash.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\IncidentWorkers\\IncidentWorker_BioUnitPodCrash.cs",
+              "RelativeToolTip": "IncidentWorkers\\IncidentWorker_BioUnitPodCrash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:49:00.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompUseEffect_ApplyXenotype.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\Comps\\CompUseEffect_ApplyXenotype.cs",
+              "RelativeDocumentMoniker": "Comps\\CompUseEffect_ApplyXenotype.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\Comps\\CompUseEffect_ApplyXenotype.cs",
+              "RelativeToolTip": "Comps\\CompUseEffect_ApplyXenotype.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAawCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:49:00.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArchoGenesDefOf.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\ArchoGenesDefOf.cs",
+              "RelativeDocumentMoniker": "ArchoGenesDefOf.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\ArchoGenesDefOf.cs",
+              "RelativeToolTip": "ArchoGenesDefOf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:49:00.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompProperties_UseEffectApplyXenotype.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\Comps\\CompProperties_UseEffectApplyXenotype.cs",
+              "RelativeDocumentMoniker": "Comps\\CompProperties_UseEffectApplyXenotype.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.6\\Source\\ArchoGenes\\Comps\\CompProperties_UseEffectApplyXenotype.cs",
+              "RelativeToolTip": "Comps\\CompProperties_UseEffectApplyXenotype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:49:00.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<IncidentDef>
+		<defName>ArchoGenes_BioUnitPodCrash</defName>
+		<label>glowing pod crash</label>
+		<category>Misc</category>
+		<targetTags>
+			<li>Map_PlayerHome</li>
+		</targetTags>
+		<workerClass>ArchoGenes.IncidentWorker_BioUnitPodCrash</workerClass>
+		<baseChance>0.001</baseChance>
+	</IncidentDef>
+
+</Defs>
