@@ -341,7 +341,7 @@
 			<li>Slows bleeding to 10% of normal.</li>
 		</customEffectDescriptions>
 		<modExtensions>
-			<li Class="VanillaGenesExpanded.GeneExtension">
+			<li Class="VEF.Genes.GeneExtension">
 				<customBloodThingDef>ArchoGenes_Filth_BloodArchotech</customBloodThingDef>
 				<customBloodIcon>ArchoGenetics/Medical/BleedingArchotech</customBloodIcon>
 				<customBloodEffect>ArchoGenes_Damage_BloodArchotech</customBloodEffect>
