@@ -1,0 +1,107 @@
+ManifestFileVersion: 0
+CRC: 1970590108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a9f2efd77ec4e45a869002885717d2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2a9f2efd77ec4e45a869002885717d2d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/XenotypeIcons/Xenotype_Archinite.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/ArchotechOverlay/Inlay3_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Male_Average_Normal_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Male_Average_Pointy_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Female_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Hulk_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/ArchotechOverlay/Inlay2_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/GeneIcons/Gene_Regeneration.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Female_Average_Pointy_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/Items/BioUnit.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/ArchotechOverlay/Inlay1_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Male_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Fat_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Female_Average_Normal_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Child_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/GeneIcons/Gene_ArchoLegs.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/Medical/WoundFleshC.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/GeneIcons/Gene_PerfectTemperature.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Male_Average_Normal_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/Medical/WoundFleshB.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Fat_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Female_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Male_Average_Wide_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Male_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/Genes/Eyes/Eyes_Female_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Female_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/ArchotechOverlay/Inlay2_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Female_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/GeneIcons/Gene_ArchoImmunity.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Thin_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Male_Average_Pointy_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Fat_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Female_Average_Normal_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/GeneIcons/Gene_Eyes.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/GeneIcons/Gene_IntimidatingPresence.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/Medical/WoundFleshA.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Male_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Male_Average_Normal_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Hulk_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/Genes/Eyes/Eyes_Female_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Male_Average_Wide_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Female_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Child_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/Genes/Eyes/Eyes_Male_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/Genes/Eyes/Eyes_Male_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/ArchotechOverlay/Inlay1_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/ArchotechOverlay/Inlay1_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Female_Average_Pointy_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Fat_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Thin_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Female_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Female_Average_Wide_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/GeneIcons/Gene_ArchoSkin.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Male_Average_Wide_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/ArchotechOverlay/Inlay3_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/GeneIcons/Gene_InnatePsycaster.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Fat_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/GeneIcons/Gene_ArchotechMemory.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Female_Average_Wide_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/ArchotechOverlay/Inlay2_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Hulk_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Hulk_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Female_Average_Pointy_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Male_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/Medical/BleedingArchotech.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Thin_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Child_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Child_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Thin_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Child_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Male_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Male_Average_Pointy_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Child_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Female_Average_Wide_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Thin_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Thin_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Male_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/GeneIcons/Gene_ArchotechMuscles.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/ArchotechOverlay/Naked_Fat_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Hulk_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/GeneIcons/Gene_ArchotechProgenitor.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/ArchotechOverlay/Inlay3_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/GeneIcons/Gene_Painless.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Bodies/Archotech/Naked_Hulk_north.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/Genes/Eyes/Eyes_Male_east.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/Genes/Eyes/Eyes_Female_south.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/ArchoGenetics/GeneIcons/Gene_Blood.png
+- Assets/Data/Neronix17.Archotech.Genetics/Textures/Things/Pawn/Humanlike/Heads/Archotech/Female_Average_Normal_north.png
+Dependencies: []
