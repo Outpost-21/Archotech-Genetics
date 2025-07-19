@@ -17,6 +17,7 @@
 			<li>Ageless</li>
 			<li>Deathless</li>
 			<li>ArchiteMetabolism</li>
+			<li MayRequire="Ludeon.RimWorld.Odyssey">VacuumResistance_Total</li>
 			<li>ArchoGenes_ArchotechSkin</li>
 			<li>ArchoGenes_ArchotechSight</li>
 			<li>ArchoGenes_ArchotechPain</li>
