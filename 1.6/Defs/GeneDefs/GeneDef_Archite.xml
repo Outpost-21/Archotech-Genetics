@@ -9,6 +9,7 @@
 		<biostatCpx>1</biostatCpx>
 		<biostatArc>1</biostatArc>
 		<displayCategory>Archite</displayCategory>
+		<immuneToVacuumBurns>true</immuneToVacuumBurns>
 		<displayOrderInCategory>6900</displayOrderInCategory>
 		<iconPath>ArchoGenetics/GeneIcons/Gene_ArchoSkin</iconPath>
 		<forcedHeadTypes>
@@ -21,16 +22,21 @@
 		</forcedHeadTypes>
 		<exclusionTags>
 			<li>Fur</li>
+			<li>VacuumResistance</li>
 		</exclusionTags>
 		<selectionWeight>0</selectionWeight>
 		<statOffsets>
 			<ArmorRating_Blunt>1.5</ArmorRating_Blunt>
 			<ArmorRating_Sharp>1.5</ArmorRating_Sharp>
 			<ArmorRating_Heat>1.5</ArmorRating_Heat>
+			<VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">1</VacuumResistance>
 		</statOffsets>
 		<fur>ArchoGenes_ArchotechSkin</fur>
 		<skinIsHairColor>false</skinIsHairColor>
 		<tattoosVisible>true</tattoosVisible>
+		<customEffectDescriptions>
+			<li MayRequire="Ludeon.RimWorld.Odyssey">Includes immunity against vacuum.</li>
+		</customEffectDescriptions>
 		<renderNodeProperties>
 			<li>
 				<debugLabel>ArchotechSkin</debugLabel>
