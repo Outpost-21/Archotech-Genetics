@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.7\\Source\\ArchoGenes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.7\\Source\\ArchoGenes\\obj\\Debug\\ArchoGenes.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\ArchoGenes.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66F3FE8-E70B-EE7B-0BCF-D482AA80D2F1}|ArchoGenes.csproj|g:\\rwmodcategories\\neronix17\\archotechgenetics\\1.7\\source\\archogenes\\archogenesmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66F3FE8-E70B-EE7B-0BCF-D482AA80D2F1}|ArchoGenes.csproj|solutionrelative:archogenesmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66F3FE8-E70B-EE7B-0BCF-D482AA80D2F1}|ArchoGenes.csproj|g:\\rwmodcategories\\neronix17\\archotechgenetics\\1.7\\source\\archogenes\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66F3FE8-E70B-EE7B-0BCF-D482AA80D2F1}|ArchoGenes.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArchoGenes.AssemblyInfo.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.7\\Source\\ArchoGenes\\obj\\Debug\\ArchoGenes.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\ArchoGenes.AssemblyInfo.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.7\\Source\\ArchoGenes\\obj\\Debug\\ArchoGenes.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\ArchoGenes.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:58:23.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArchoGenesMod.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.7\\Source\\ArchoGenes\\ArchoGenesMod.cs",
+              "RelativeDocumentMoniker": "ArchoGenesMod.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.7\\Source\\ArchoGenes\\ArchoGenesMod.cs",
+              "RelativeToolTip": "ArchoGenesMod.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:57:46.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.7\\Source\\ArchoGenes\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\ArchotechGenetics\\1.7\\Source\\ArchoGenes\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:57:40.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
